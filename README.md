@@ -44,7 +44,7 @@
 ## 📫 Connect With Me
 
 * 📧 Email: [Prince.jatt243@gmail.com](mailto:Prince.jatt243@gmail.com)
-* 🐙 GitHub: https://github.com/princejatt243-creator
+* 🐙 GitHub: https://github.com/Choudharee07
 
 ---
 
