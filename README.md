@@ -1,18 +1,19 @@
-# Hi, I'm Prince Chaudhary👋
+# Hi, I'm Prince Chaudhary 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=300&width=700&lines=👉+Aspiring+Full-Stack+Developer;💡+Problem+Solver;🤖+AI+Enthusiast;🚀+Building+Projects+Every+Day" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=28\&pause=300\&center=true\&vCenter=true\&width=700\&lines=Aspiring+Full-Stack+Developer;Problem+Solver;AI+Enthusiast;Building+Projects+Every+Day;Lifelong+Learner)](https://git.io/typing-svg)
 
-Passionate about building web applications, solving problems through code, and continuously learning new technologies. Currently exploring Full-Stack Development, Artificial Intelligence, and Machine Learning.
+🚀 Full-Stack Developer in Progress | 💡 Problem Solver | 🤖 AI Enthusiast
 
 ---
 
 ## 👨‍💻 About Me
 
 * 🌱 Currently learning Full-Stack Web Development
-* 🤖 Interested in AI, Machine Learning, and Automation
+* 🤖 Interested in Artificial Intelligence & Machine Learning
 * 💻 Skilled in HTML, CSS, JavaScript, Python, C++, and SQL
 * 🔧 Familiar with Git, GitHub, and Version Control
-* 🎯 Goal: Become a professional Software Engineer
+* 🎯 Goal: Become a Professional Software Engineer
+* 📚 Continuously learning and building real-world projects
 
 ---
 
@@ -30,7 +31,7 @@ Passionate about building web applications, solving problems through code, and c
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### Tools
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -45,25 +46,11 @@ Passionate about building web applications, solving problems through code, and c
 
 ---
 
-## 📚 Currently Learning
-
-* Full-Stack Development
-* React.js
-* Node.js
-* Machine Learning
-* Data Structures & Algorithms
-
----
-
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: Your LinkedIn Profile
-* Email: [Prince.jatt243@gmail.com](mailto:your-email@example.com)
+* 📧 Email: [Prince.jatt243@gmail.com](mailto:Prince.jatt243@gmail.com)
+* 🐙 GitHub: https://github.com/princejatt243-creator
 
 ---
 
-### 💡 Quote
-
-> "Code. Learn. Build. Repeat."
-
+> 💡 "Code. Learn. Build. Repeat."
