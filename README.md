@@ -1,6 +1,6 @@
 # Hi, I'm Prince Chaudhary 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=28\&pause=300\&center=true\&vCenter=true\&width=700\&lines=Aspiring+Full-Stack+Developer;Problem+Solver;AI+Enthusiast;Building+Projects+Every+Day;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=28\&pause=300\&width=700\&lines=Aspiring+Full-Stack+Developer;Problem+Solver;AI+Enthusiast;Building+Projects+Every+Day;Lifelong+Learner)](https://git.io/typing-svg)
 
 🚀 Full-Stack Developer in Progress | 💡 Problem Solver | 🤖 AI Enthusiast
 
